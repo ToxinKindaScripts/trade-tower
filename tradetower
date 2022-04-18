@@ -73,7 +73,7 @@ RunService.Heartbeat:Connect(function()
 
     local args = {
         [1] = "AcceptRequest",
-        [2] = "LuxPlatzRoblIoxXD"
+        [2] = "VXVXVXVXVXVXXVXVXV"
     }
     game:GetService("ReplicatedStorage").Events.TradeActions:InvokeServer(unpack(args))
     wait(1)
